@@ -1,7 +1,7 @@
 perfecto
 ========
 
-Drupal module that allows to hover and move image on top of a page. It's good for comparing design and current HTML/CSS
+Wordpress plugin that allows to hover and move image on top of a page. It's good for comparing design and current HTML/CSS
 
 Currently it has no admin panel where you could upload images. So for now upload them manually to /wp-content/themes/apotheka/
 
